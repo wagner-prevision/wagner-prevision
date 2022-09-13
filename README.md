@@ -4,7 +4,7 @@ Tenho um amor enorme por programação e estou muito feliz por fazer parte do ti
 
 ## Time
 
-No momento faço parte da squad **UP** e estou na fase de **onboarding**.
+No momento faço parte do **Jonas Street Boys**.
 
 ## O que gosto de fazer no tempo livre
 - codar (pois é, mesmo sendo meu trabalho, estudar programação também é um hobby para mim :D)
@@ -26,4 +26,4 @@ No momento faço parte da squad **UP** e estou na fase de **onboarding**.
 - trabalhar como líder, auxiliando os mais jovens a se desenvolverem na carreira;
 
 ## Contato
-Caso queiram conversar ou tirar dúvidas, sinta-se a vontade para falar comigo no Slack.
+Caso queiram conversar ou tirar dúvidas, sinta-se a vontade para falar comigo no Slack **@Wagner Cardoso da Silva**.
