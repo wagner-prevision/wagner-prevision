@@ -4,7 +4,7 @@ Tenho um amor enorme por programação e estou muito feliz por fazer parte do ti
 
 ## Time
 
-No momento faço parte do **Jonas Street Boys**.
+No momento faço parte do **Up**.
 
 ## O que gosto de fazer no tempo livre
 - codar (pois é, mesmo sendo meu trabalho, estudar programação também é um hobby para mim :D)
